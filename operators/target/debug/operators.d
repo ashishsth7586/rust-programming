@@ -1,0 +1,1 @@
+/Users/ashishshrestha/Desktop/workspace/asmi/stream-finance/rust-programming/operators/target/debug/operators: /Users/ashishshrestha/Desktop/workspace/asmi/stream-finance/rust-programming/operators/src/main.rs
