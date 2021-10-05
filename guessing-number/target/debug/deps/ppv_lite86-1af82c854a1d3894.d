@@ -1,0 +1,10 @@
+/Users/ashishshrestha/Desktop/workspace/asmi/stream-finance/rust-programming/guessing-number/target/debug/deps/ppv_lite86-1af82c854a1d3894.rmeta: /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/generic.rs
+
+/Users/ashishshrestha/Desktop/workspace/asmi/stream-finance/rust-programming/guessing-number/target/debug/deps/libppv_lite86-1af82c854a1d3894.rlib: /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/generic.rs
+
+/Users/ashishshrestha/Desktop/workspace/asmi/stream-finance/rust-programming/guessing-number/target/debug/deps/ppv_lite86-1af82c854a1d3894.d: /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs /Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/generic.rs
+
+/Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs:
+/Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs:
+/Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs:
+/Users/ashishshrestha/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/generic.rs:
