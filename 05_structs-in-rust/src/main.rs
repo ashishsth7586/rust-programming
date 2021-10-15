@@ -16,22 +16,50 @@ struct Rectangle {
     height: u32
 }
 
+impl Rectangle {
+
+    fn area(&self) -> u32 {
+        self.width * self.height
+    }
+
+    fn can_hold(&self, other: &Rectangle) -> bool {
+        self.width > other.width && self.height > other.height
+    }
+}
+
+impl Rectangle {
+    fn square(size: u32) -> Rectangle {
+        Rectangle { width: size, height: size }
+    }
+}
+
 fn main() {
-    let rect: Rectangle = Rectangle {
+    let rect1: Rectangle = Rectangle {
         width: 10,
         height: 20
     };
 
-    let area_of_rect = area(&rect);
+    let rect2: Rectangle = Rectangle { width: 9, height: 19 };
+    let rect3: Rectangle = Rectangle { width: 11, height: 21 };
 
-    println!("Rect: {:#?}", rect);
-    println!("Area of Rectangle with Width: {} and Height: {}  is: {}", rect.width, rect.height, area_of_rect);
+    // calling associated functions
+    let square = Rectangle::square(10);
+
+    // calling method
+    let area_of_rect = rect1.area();
+
+    println!("Rect: {:#?}", rect1);
+    println!("Area of Rectangle is: {} square pixels.", area_of_rect);
+
+    println!("Rect1 can hold rect2: {}", rect1.can_hold(&rect2));
+    println!("Rect1 can hold rect3: {}", rect1.can_hold(&rect3));
+
+    println!("The square is: {:#?}", square);
+
+    println!("The area of square is: {} square pixels.", square.area());
+
 }
 
 
-// Here we pass reference to Struct Rectangle
-// We want to use its fields but not take ownership.
-fn area(rect: &Rectangle) -> u32 {
-    rect.width * rect.height
-}
+
 
