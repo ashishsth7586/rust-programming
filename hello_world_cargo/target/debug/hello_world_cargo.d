@@ -1,1 +1,0 @@
-/Users/ashishshrestha/Desktop/workspace/asmi/stream-finance/rust-programming/hello_world_cargo/target/debug/hello_world_cargo: /Users/ashishshrestha/Desktop/workspace/asmi/stream-finance/rust-programming/hello_world_cargo/src/main.rs
